@@ -24,7 +24,7 @@ Culture City ist ein deutschsprachiger GTA-RP-Server auf Basis von **QBCore**. A
 | **qb-auktion** | Staatliches Auktionshaus mit Live-Geboten, Handy-App und Website |
 | **qb-gebrauchtwagen** | Gebrauchtwagenhändler mit Hof, Katalog und Firmenkonto |
 | **qb-doener** | Job-Resource für eine Dönerbude mit Stationen, Kasse und eigenen Items |
-| **vehicle-photostudio** | Einheitliche Fahrzeugbilder direkt im Spiel, mit Fivemanage und Discord |
+| **[vehicle-photostudio](https://github.com/Robertbox28/vehicle-photostudio)** | Einheitliche Fahrzeugbilder direkt im Spiel, mit Fivemanage und Discord |
 | **[qb-weathersync](https://github.com/Robertbox28/qb-weathersync)** | Wetter und Zeit mit Wetterzonen inkl. Roxwood, Schnee und Admin-Menü |
 
 Dazu kommen neue Oberflächen für Standard-Resources wie Bank, Kleidung, Tankstelle und Spawn sowie  **[Anleitung](https://robertbox28.ch/anleitungen)** für jede Resource.
