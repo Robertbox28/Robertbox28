@@ -20,7 +20,7 @@ Culture City ist ein deutschsprachiger GTA-RP-Server auf Basis von **QBCore**. A
 | Resource | Was sie macht |
 |---|---|
 | **[qb-adminjail](https://github.com/Robertbox28/qb-adminjail)** | Admin-Jail mit NPC-Polizei, die Spieler abholt. Bei einem Bann geht es zum Flughafen und ab ins Flugzeug. |
-| **MDT & Leitstelle** | Überarbeitetes ps-mdt und ps-dispatch für Polizei, Rettungsdienst, Feuerwehr, Justiz, Taxi und Mechaniker |
+| **[MDT & Leitstelle](https://github.com/Robertbox28/Culture-City-Edition-MDT)** | Überarbeitetes ps-mdt und ps-dispatch für Polizei, Rettungsdienst, Feuerwehr, Justiz, Taxi und Mechaniker |
 | **qb-auktion** | Staatliches Auktionshaus mit Live-Geboten, Handy-App und Website |
 | **qb-gebrauchtwagen** | Gebrauchtwagenhändler mit Hof, Katalog und Firmenkonto |
 | **qb-doener** | Job-Resource für eine Dönerbude mit Stationen, Kasse und eigenen Items |
